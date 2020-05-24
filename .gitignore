@@ -6,3 +6,6 @@ __pycache__/
 
 # Data
 data/
+project_nb/secret_codes.py
+
+

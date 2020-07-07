@@ -1,14 +1,8 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+project_nb/__pycache__/
 
 # Jupyter Notebook
-.ipynb_checkpoints/
+project_nb/.ipynb_checkpoints/
 
-# Data
-data/
+# API codes
 project_nb/secret_codes.py
-
-
-# Other directories
-papers/
-final_presentation/images/
